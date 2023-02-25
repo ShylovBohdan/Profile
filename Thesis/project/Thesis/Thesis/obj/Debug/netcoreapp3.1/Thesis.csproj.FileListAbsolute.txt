@@ -1,0 +1,56 @@
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.exe
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.deps.json
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.json
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.dev.json
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.dll
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.pdb
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csprojAssemblyReference.cache
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.GenerateResource.cache
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfoInputs.cache
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfo.cs
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.CoreCompileInputs.cache
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.dll
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.pdb
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.genruntimeconfig.cache
+D:\University\Принципи конструювання пз\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Date.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.exe
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.deps.json
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.json
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.dev.json
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.dll
+G:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.pdb
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csprojAssemblyReference.cache
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Form1.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Properties.Resources.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.GenerateResource.cache
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfoInputs.cache
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfo.cs
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.CoreCompileInputs.cache
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.dll
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.pdb
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.genruntimeconfig.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.exe
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.deps.json
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.json
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.runtimeconfig.dev.json
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.dll
+D:\PKPZ\Thesis\project\Thesis\Thesis\bin\Debug\netcoreapp3.1\Thesis.pdb
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.AssemblyReference.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Form1.resources
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Properties.Resources.resources
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.GenerateResource.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfoInputs.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AssemblyInfo.cs
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.csproj.CoreCompileInputs.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.dll
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.pdb
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.genruntimeconfig.cache
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Basket.resources
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Bill.resources
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AboutUs.resources
+D:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Help.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.AboutUs.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Basket.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Bill.resources
+G:\PKPZ\Thesis\project\Thesis\Thesis\obj\Debug\netcoreapp3.1\Thesis.Help.resources

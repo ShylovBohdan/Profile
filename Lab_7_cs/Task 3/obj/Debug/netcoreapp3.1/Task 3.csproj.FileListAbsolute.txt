@@ -1,0 +1,15 @@
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.exe
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.deps.json
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.json
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.dev.json
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.dll
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\bin\Debug\netcoreapp3.1\Task 3.pdb
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.csprojAssemblyReference.cache
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task_3.Form1.resources
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.GenerateResource.cache
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfoInputs.cache
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfo.cs
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.CoreCompileInputs.cache
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
+D:\Універ\Принципи конструювання пз\Проекти\Lab_7\Lab_7_cs\Lab_7_cs\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache

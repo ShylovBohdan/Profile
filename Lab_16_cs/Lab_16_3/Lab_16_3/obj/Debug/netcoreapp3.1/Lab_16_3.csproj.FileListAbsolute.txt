@@ -1,0 +1,13 @@
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.exe
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.deps.json
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.runtimeconfig.json
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.runtimeconfig.dev.json
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.dll
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\bin\Debug\netcoreapp3.1\Lab_16_3.pdb
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.csprojAssemblyReference.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.AssemblyInfoInputs.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.AssemblyInfo.cs
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.csproj.CoreCompileInputs.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.dll
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.pdb
+D:\University\Принципи конструювання пз\Проекти\Lab_16\Lab_16_cs\Lab_16_3\Lab_16_3\obj\Debug\netcoreapp3.1\Lab_16_3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.exe
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.deps.json
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.runtimeconfig.json
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.runtimeconfig.dev.json
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.dll
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\bin\Debug\netcoreapp3.1\Lab_15_1.pdb
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.csprojAssemblyReference.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.AssemblyInfoInputs.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.AssemblyInfo.cs
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.csproj.CoreCompileInputs.cache
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.dll
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.pdb
+D:\University\Принципи конструювання пз\Проекти\Lab_15\Lab_15_cs\Lab_15_1\Lab_15_1\obj\Debug\netcoreapp3.1\Lab_15_1.genruntimeconfig.cache
